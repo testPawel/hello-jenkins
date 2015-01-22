@@ -1,0 +1,145 @@
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\bin\CRUDapp.dll.config
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\bin\CRUDapp.dll
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\bin\CRUDapp.pdb
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\bin\Antlr3.Runtime.dll
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\bin\EntityFramework.dll
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\bin\Microsoft.Data.Edm.dll
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\bin\Microsoft.Data.OData.dll
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\bin\Microsoft.Web.Infrastructure.dll
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\bin\Newtonsoft.Json.dll
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\bin\System.Net.Http.Formatting.dll
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\bin\System.Spatial.dll
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\bin\System.Web.Helpers.dll
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\bin\System.Web.Http.dll
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\bin\System.Web.Http.OData.dll
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\bin\System.Web.Http.Tracing.dll
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\bin\System.Web.Http.WebHost.dll
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\bin\System.Web.Mvc.dll
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\bin\System.Web.Optimization.dll
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\bin\System.Web.Providers.dll
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\bin\System.Web.Razor.dll
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\bin\System.Web.WebPages.Deployment.dll
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\bin\System.Web.WebPages.dll
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\bin\System.Web.WebPages.Razor.dll
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\bin\WebGrease.dll
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\bin\EntityFramework.xml
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\bin\Newtonsoft.Json.xml
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\bin\System.Net.Http.Formatting.xml
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\bin\System.Web.Helpers.xml
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\bin\System.Web.Http.xml
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\bin\System.Web.Http.WebHost.xml
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\bin\System.Web.Mvc.xml
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\bin\System.Web.Razor.xml
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\bin\System.Web.WebPages.xml
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\bin\System.Web.WebPages.Deployment.xml
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\bin\System.Web.WebPages.Razor.xml
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\bin\System.Web.Http.Tracing.xml
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\bin\System.Web.Http.OData.xml
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\bin\Microsoft.Data.Edm.xml
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\bin\Microsoft.Data.OData.xml
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\bin\System.Spatial.xml
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\bin\de\Microsoft.Data.OData.resources.dll
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\bin\es\Microsoft.Data.OData.resources.dll
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\bin\it\Microsoft.Data.OData.resources.dll
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\bin\de\System.Spatial.resources.dll
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\bin\es\System.Spatial.resources.dll
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\bin\fr\System.Spatial.resources.dll
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\bin\it\System.Spatial.resources.dll
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\bin\ja\System.Spatial.resources.dll
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\bin\ko\System.Spatial.resources.dll
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\bin\ru\System.Spatial.resources.dll
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\bin\zh-Hans\System.Spatial.resources.dll
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\bin\zh-Hant\System.Spatial.resources.dll
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\obj\Debug\CRUDapp.dll
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\obj\Debug\CRUDapp.pdb
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\obj\Debug\CRUDapp.Migrations.InitialCreate.resources
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\obj\Debug\CRUDapp.csproj.GenerateResource.Cache
+D:\Angular learning\CRUDapp\CRUDapp\CRUDapp\obj\Debug\CRUDapp.csprojResolveAssemblyReference.cache
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\bin\CRUDapp.dll
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\bin\CRUDapp.pdb
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\bin\Antlr3.Runtime.dll
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\bin\EntityFramework.dll
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\bin\Microsoft.Data.Edm.dll
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\bin\Microsoft.Data.OData.dll
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\bin\Microsoft.Web.Infrastructure.dll
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\bin\Newtonsoft.Json.dll
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\bin\System.Net.Http.Formatting.dll
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\bin\System.Spatial.dll
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\bin\System.Web.Helpers.dll
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\bin\System.Web.Http.dll
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\bin\System.Web.Http.OData.dll
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\bin\System.Web.Http.Tracing.dll
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\bin\System.Web.Http.WebHost.dll
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\bin\System.Web.Mvc.dll
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\bin\System.Web.Optimization.dll
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\bin\System.Web.Providers.dll
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\bin\System.Web.Razor.dll
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\bin\System.Web.WebPages.Deployment.dll
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\bin\System.Web.WebPages.dll
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\bin\System.Web.WebPages.Razor.dll
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\bin\WebGrease.dll
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\bin\EntityFramework.xml
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\bin\Newtonsoft.Json.xml
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\bin\System.Net.Http.Formatting.xml
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\bin\System.Web.Helpers.xml
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\bin\System.Web.Http.xml
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\bin\System.Web.Http.WebHost.xml
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\bin\System.Web.Mvc.xml
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\bin\System.Web.Razor.xml
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\bin\System.Web.WebPages.xml
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\bin\System.Web.WebPages.Deployment.xml
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\bin\System.Web.WebPages.Razor.xml
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\bin\System.Web.Http.Tracing.xml
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\bin\System.Web.Http.OData.xml
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\bin\Microsoft.Data.Edm.xml
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\bin\Microsoft.Data.OData.xml
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\bin\System.Spatial.xml
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\bin\de\Microsoft.Data.OData.resources.dll
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\bin\es\Microsoft.Data.OData.resources.dll
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\bin\it\Microsoft.Data.OData.resources.dll
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\bin\de\System.Spatial.resources.dll
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\bin\es\System.Spatial.resources.dll
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\bin\fr\System.Spatial.resources.dll
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\bin\it\System.Spatial.resources.dll
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\bin\ja\System.Spatial.resources.dll
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\bin\ko\System.Spatial.resources.dll
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\bin\ru\System.Spatial.resources.dll
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\bin\zh-Hans\System.Spatial.resources.dll
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\bin\zh-Hant\System.Spatial.resources.dll
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\obj\Debug\CRUDapp.csprojResolveAssemblyReference.cache
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\obj\Debug\CRUDapp.Migrations.InitialCreate.resources
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\obj\Debug\CRUDapp.csproj.GenerateResource.Cache
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\obj\Debug\CRUDapp.dll
+D:\Users\pwaszczyszyn\Documents\jenkinsdir\develop\CRUDapp\obj\Debug\CRUDapp.pdb
