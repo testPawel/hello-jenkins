@@ -11,6 +11,6 @@ namespace CRUDapp.Models
         public string Name { get; set; }
         public string DueDate { get; set; }
         public string Adress { get; set; }
-    }erg
+    }
 
 }
